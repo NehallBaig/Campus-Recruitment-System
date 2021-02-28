@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898046536899",
+    "project_id": "crsapp-5073a",
+    "storage_bucket": "crsapp-5073a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898046536899:android:6b7c28d736efeb1606c676",
+        "android_client_info": {
+          "package_name": "com.saylaniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898046536899-uaa64a6n43vpabs5c9hg1c2uq6smjicc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhLs8YOqYCevpnfUVwvla97BwUmkx_ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898046536899-uaa64a6n43vpabs5c9hg1c2uq6smjicc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
